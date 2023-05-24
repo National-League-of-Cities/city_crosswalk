@@ -1,0 +1,34 @@
+Census of Governments
+Exclude townships from: MO, NE, SD, NY, IN, KS, MN, IL, OH, ND, WI, MI
+
+Code Changes
+
+Townships
+166545, Bridgewater Township, place code 08085 to 08130
+128148, Randolph Township, place code 55955 to 56000
+
+Municipalities
+194266, Village of waukesha, 2-Municipal to 3-Township,(Change from Town to Village in type on cousub table)
+177797, Village of Vernon, 2-Municipal to 3-Township, (Change from Town to Village in type on cousub table)
+250370, Village of Greenville, 2-Municipal to 3-Township (Annexed the Town?)
+250244, City of Ellinger, Not on any other list
+176097, Town of Corral City, Not on any other list
+176012, Town of Millican, Not on any other list
+171132, Village of Grandfather, place code to 27324
+250390, Village of Tuxedo, same as Township of Tuxedo (not matching)
+170523, Village of harrisville, not on any other list
+224809, City of Greenfield, place code 27100 to 27060
+186122, City of Credit River, 2-municipal to 3-Township
+169115, Village of Bellerive, changed name to Belllerive Acres, place code 04240 to 04248
+
+City-Counties
+161834, Athens-Clarke County, change place 03436 to 03440
+175728, Nashville-Davidsonville, 47,037, change place 52004 to 52006
+108124, Butte-Silver Bow, 30,093,change place 11390 to 11397
+165866, Louisville-Jefferson county, 21,111,change place 48003 to 48000
+164742, Greeley conuty, 20,071,28410 - match to county directly
+183701, honolulu, 15,003,17000 - match to county directly
+
+Principal cities (CDP to Cousub)
+-boardman, oh 39-07454 to 39-x-07468
+-stratford, ct 09-74260 to 09-x-74190
