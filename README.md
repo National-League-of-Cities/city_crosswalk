@@ -59,13 +59,6 @@ The following crosswalk tables can be used to join the primary CTV table to rela
 ||GEOID_cd|CD|
 
 
-### Next Steps
-
-* Custom Shapefiles for CTV
-* Network diagram with principal cities/ central/outlying counties and distance calculations
-* CTV to PUMAS crosswalk
-* CTV to Zip codes crosswalk
-
 
 ## Changelog and Errata
 
